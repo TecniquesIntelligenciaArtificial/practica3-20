@@ -1,4 +1,4 @@
-# Pràctica 4. Classificació
+# Pràctica 3. Classificació
 
 ### Dataset
 Usarem el data set wine.csv que teniu al gitHub. Podeu trobar una descripció del dataset a 
@@ -9,7 +9,7 @@ https://archive.ics.uci.edu/ml/datasets/wine
 Farem servir el scikit-learn  que és una llibreria molt usada per anàlisi de dades i datamining. És una llibreria 
 professional que competeix amb el R. Està documentat que scikit-learn és més ràpid que R. Com sempre hi ha gent
 que prefereix R i d'altres que prefereixen scikit-learn i també n'hi ha que diuen que s'han d'usar els dos entonrs que
-on no arriba un arriba l'altre. Per questa pràctica em escollit scikit-learn perquè ja coneixeu python, tot i que no
+on no arriba un arriba l'altre. Per questa pràctica hem escollit scikit-learn perquè ja coneixeu python, tot i que no
 és una pràctica de programar gaire.
 
 Per usar scikit-learn l'haureu d'instal·lar. Aquí trobareu documentació de com fer-ho 
@@ -17,7 +17,7 @@ https://scikit-learn.org/stable/index.html
 
 ### Objectiu
 Al fitxer *classifyWine.py* trobareu la pràctica quasi feta. L'objectiu és que feu una darrera pràctica senzilla que 
-us permeti veure com es treballa amb la llibreria i que compareu els tres algorismes que hem vists a classe: K-nearest
+us permeti veure com es treballa amb la llibreria i que compareu els tres algorismes de classificació que hem vists a classe: K-nearest
 neighbors, decision trees i el naive bayes. 
 
 Un altre objectiu és que vegueu que usar les dades tal com venen (raw data) no sempre és una bona idea. Moltes vegades
